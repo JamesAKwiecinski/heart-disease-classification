@@ -1,4 +1,8 @@
 # heart-disease-classification
+<p align="center">
+<img src="https://user-images.githubusercontent.com/86231828/125233921-ec6ea700-e322-11eb-9489-69c68c285727.png" width="500" height=auto>
+</p>
+
 ## An end-to-end machine learning analysis to predict heart disease
 This is a repository storing a complete data analysis and modeling workflow which aims to predict heart disease in a patient, provided a patient's record. A Jupyter notebook detailing the statement of the problem, data exploration, and model training is provided above, along with the trained models and dataset in CSV format. 
 
@@ -9,14 +13,14 @@ From the Scikit-Learn models, we found that the Logarithmic Regression performed
 
 ### Evaluation of Logarithmic Regression
 <p align="center">
-<img src="https://user-images.githubusercontent.com/86231828/125233521-1a072080-e322-11eb-8a24-b7b679228a3e.jpg" width="400" height="300">
-<img src="https://user-images.githubusercontent.com/86231828/125233399-cbf21d00-e321-11eb-9510-07e16040e6ef.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/86231828/125233521-1a072080-e322-11eb-8a24-b7b679228a3e.jpg" width=auto height="300">
+<img src="https://user-images.githubusercontent.com/86231828/125233399-cbf21d00-e321-11eb-9510-07e16040e6ef.png" width=auto height="300">
 </p> 
 
 
 
 ## Evaluation of CatBoost Classifier
 <p align="center">
-<img src="https://user-images.githubusercontent.com/86231828/125233343-ae24b800-e321-11eb-9e21-cb4951f784c4.png" width="400" height="300">
-<img src="https://user-images.githubusercontent.com/86231828/125233352-b41a9900-e321-11eb-80e3-085360f2d7e9.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/86231828/125233343-ae24b800-e321-11eb-9e21-cb4951f784c4.png" width=auto height="300">
+<img src="https://user-images.githubusercontent.com/86231828/125233352-b41a9900-e321-11eb-80e3-085360f2d7e9.png" width=auto height="300">
 </p> 
