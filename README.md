@@ -4,7 +4,7 @@
 </p>
 
 ## An end-to-end machine learning analysis to predict heart disease
-This is a repository storing a complete data analysis and modeling workflow which aims to predict heart disease in a patient, provided a patient's record. A Jupyter notebook detailing the statement of the problem, data exploration, and model training is provided above, along with the trained models and dataset in CSV format. 
+This is a repository storing a complete data analysis and modeling workflow which aims to predict heart disease in a patient, provided a patient's record. A Jupyter notebook detailing the statement of the problem, data exploration, and supervised model training is provided above, along with the trained models and dataset in CSV format. 
 
 ### Abstract
 Study of heart disease patient records from the UCI Machine Learning repository (publicly available [here](https://archive.ics.uci.edu/ml/datasets/heart+disease), as well as on [Kaggle](https://www.kaggle.com/ronitf/heart-disease-uci)) was performed using Logarithmic Regression, K-Neighbor, and Random Forest classifiers taken from the [Scikit-Learn library](https://scikit-learn.org/stable/index.html) and [CatBoost](https://catboost.ai/). 
