@@ -9,7 +9,7 @@ This is a repository storing a complete data analysis and modeling workflow whic
 ### Summary
 I studed heart disease patient records from the UCI Machine Learning repository (publicly available [here](https://archive.ics.uci.edu/ml/datasets/heart+disease), as well as on [Kaggle](https://www.kaggle.com/ronitf/heart-disease-uci)) using Logarithmic Regression, K-Neighbor, and Random Forest classifiers taken from the [Scikit-Learn library](https://scikit-learn.org/stable/index.html) and [CatBoost](https://catboost.ai/). 
 
-From the Scikit-Learn models, I found that the Logarithmic Regression performed the best after tuning the hyperparameters with a 5-fold cross validation grid-search and scored the same accuracy, 88.52%, as the CatBoost model, the latter of which was optimized to minimize log loss of the test data. CatBoost had marginally better scores in precison, recall, and therefore F1, which the receiver of characteristic curves and confusion matrices show below: 
+From the Scikit-Learn models, I found that the Logarithmic Regression performed the best after tuning the hyperparameters with a 5-fold cross validation grid-search and scored the same accuracy, 88.52%, as the CatBoost model, the latter of which was optimized to minimize log loss of the test data. CatBoost had marginally better scores in precison, recall, and therefore F1, which the receiver of characteristic curves and confusion matrices below show: 
 
 ### Evaluation of Logarithmic Regression
 <p align="center">
